@@ -1,0 +1,6 @@
+{
+  "name": "Vibe — Conversas",
+  "description": "Plataforma premium de mensagens com áudio, grupos e selo verificado.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

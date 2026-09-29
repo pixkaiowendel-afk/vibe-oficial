@@ -1,0 +1,25 @@
+{
+  "name": "Vibe — Conversas",
+  "short_name": "Vibe",
+  "description": "Plataforma premium de mensagens com áudio, grupos e selo verificado.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080C",
+  "theme_color": "#08080C",
+  "categories": ["social", "communications"],
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
